@@ -398,13 +398,11 @@ box-shadow: 10px 10px 54px rgba(70,62,221,0.2);
 
 #banner3 .banner-box3 {
   background-image: url(img/banner/b5.png);
-  background-position: 32%;
 }
 
 
 #banner3 .banner-box4 {
   background-image: url(img/banner/b6.png);
-  background-position: 30%;
 }
 
 #banner3 h2 {
@@ -977,7 +975,7 @@ footer .copyright {
 /* Start Media Query */
 @media (max-width: 799px) {
   #header {
-    padding: 5px 70px;
+    padding: 20px 70px;
   }
   
   .section-p1 {
@@ -1127,7 +1125,7 @@ footer .copyright {
   }
 
   #header {
-    padding: 5px 30px;
+    padding: 15px 30px;
   }
   
   p {
