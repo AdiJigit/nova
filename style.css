@@ -83,7 +83,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 20px 50px;
+  padding: 7px 50px;
   background: #DCE1E4;
   box-shadow: 0 5px 15px rgba (0,0,0,0.06);
   z-index: 999;
